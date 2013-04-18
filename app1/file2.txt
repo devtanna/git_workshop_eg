@@ -1,4 +1,4 @@
-this is file two
+this is fixed file two
 
 this is for the git workshop, and is the second file with some different content
 
